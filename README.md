@@ -1,6 +1,2 @@
-# CreditTracker
-Credit and Asset Tracker built on HyperLedger Fabric
-
-Blockchain4.business.com 07.2018 in Munich
-
-CDO Table branch
+# Munich Hackathon / Blockchain 4 Business
+Results of the hackathon with Hyperledger DLT and angular 6 as UI
